@@ -7,7 +7,7 @@ To unerstand what this repo actually consists of, read below.
 * Quick summary: Anyone looking for a good portfolio website, a developer, designer or artist can always use this template and use it for their online portfolio.
 * Version 0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-* [Learn HTML(https://www.w3schools.com/Html/)
+* [Learn HTML](https://www.w3schools.com/Html/)
 
 ### How do I get set up? ###
 
